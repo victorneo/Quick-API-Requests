@@ -2,7 +2,7 @@
 Firefox add-on for quick (JSON) API requests.
 For fun and not for production.
 
-![Screenshot](screenshot.png "Screenshot")
+![Screenshot](https://raw.github.com/victorneo/Quick-API-Requests/master/screenshot.png "Screenshot")
 
 ## Feature:
 * Enter a URL and displays formatted JSON result.
